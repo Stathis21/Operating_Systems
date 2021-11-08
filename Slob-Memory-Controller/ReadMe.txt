@@ -23,6 +23,6 @@ Test results:	Next fit:	Claimed			919248370		1309965012
 				μειώνεται σημαντικά.
 				
 				
-		Γιάννης Καράμπορος 2264		ikaramporos@uth.gr
-		Ευστάθιος Τσιτσόπουλος 2283	etsitsopoulos@uth.gr
-		Στέργιος Κουτουράτσας 2162	skoutouratsas@uth.gr
+		Γιάννης Καράμπορος 	ikaramporos@uth.gr
+		Ευστάθιος Τσιτσόπουλος 	etsitsopoulos@uth.gr
+		Στέργιος Κουτουράτσας 	skoutouratsas@uth.gr
